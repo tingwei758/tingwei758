@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### Languages I use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+
+
 <!--
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tingwei758)](https://github.com/anuraghazra/github-readme-stats)
