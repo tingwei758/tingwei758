@@ -1,4 +1,4 @@
-##### Hi there, I am Mike:
+### Hi there, I am Mike:
 
 
 🎓 4th year data science student at University of Waterloo  
