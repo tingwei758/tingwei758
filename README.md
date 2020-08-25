@@ -2,7 +2,7 @@
 
 
 🎓 4th year data science student at University of Waterloo  
-🔖 Worked as web developper, data scientist, quantitative engineer  
+🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer
 🏆 Winner of a few math contests  
 
 <!--
