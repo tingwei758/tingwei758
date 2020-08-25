@@ -1,5 +1,7 @@
-### Hi there, I am Mike 👋
+##### Hi there, I am Mike:
 
+
+🎓 Senior data science student at University of Waterloo
 
 
 <!--
