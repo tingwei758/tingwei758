@@ -1,9 +1,9 @@
 ### Hi there, I am Mike:
 
 
-🎓 4th year data science student at University of Waterloo  
+🎓 4th year Data Science student at University of Waterloo  
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
-🏆 Winner of a few math contests  
+🏆 Winner of a few Math Contests  
 
 <!--
 **tingwei758/tingwei758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
