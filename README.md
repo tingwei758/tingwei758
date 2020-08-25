@@ -6,7 +6,7 @@
 🏆 Winner of a few Math Contests  
 
 #### Reach me  
-[![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
+[![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)
 [![Mail](https://img.shields.io/badge/-tingwei758@hotmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:tingwei758@hotmail.com)
 
 <!--
