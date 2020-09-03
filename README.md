@@ -1,6 +1,6 @@
 ### Hi there, I am Mike:
 
-![asdf](https://media.giphy.com/media/H1LeNNjn8sxz2sWkxJ/giphy.gif)
+![](https://media.giphy.com/media/H1LeNNjn8sxz2sWkxJ/giphy.gif)
 
 🎓 4th year Data Science student at University of Waterloo  
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
