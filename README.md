@@ -6,7 +6,7 @@
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
 🏆 Winner of a few Math Contests  
 
-#### Languages I use
+### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-#### Reach me  
+### Reach me  
 [![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)
 [![Mail](https://img.shields.io/badge/-tingwei758@hotmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:tingwei758@hotmail.com)
 
