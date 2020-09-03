@@ -1,5 +1,7 @@
 ![mike_zhang.gif](https://github.com/tingwei758/tingwei758/raw/master/img/mike_zhang.gif)
 
+## Hey 👋, I'm Mike Zhang
+
 🎓 4th year Data Science student at University of Waterloo  
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
 🏆 Winner of a few Math Contests  
