@@ -1,6 +1,8 @@
 ![](https://media.giphy.com/media/H1LeNNjn8sxz2sWkxJ/giphy.gif =250x)
 
-![](https://media.giphy.com/media/H1LeNNjn8sxz2sWkxJ/giphy.gif)
+![](https://media.giphy.com/media/H1LeNNjn8sxz2sWkxJ/giphy.gif){
+  width: 70%;
+}
 
 🎓 4th year Data Science student at University of Waterloo  
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
