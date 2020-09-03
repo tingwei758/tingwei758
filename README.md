@@ -1,5 +1,7 @@
 ![](./img/mike_zhang.gif)
 
+![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
+
 🎓 4th year Data Science student at University of Waterloo  
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
 🏆 Winner of a few Math Contests  
