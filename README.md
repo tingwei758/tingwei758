@@ -10,7 +10,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776ab)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=2b76cc)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
