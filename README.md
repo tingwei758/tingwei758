@@ -8,7 +8,7 @@
 
 ### Languages I use
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776ab)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=2b76cc)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
