@@ -9,7 +9,7 @@
 ### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&color=2b76cc)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logocolor=2b76cc)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
