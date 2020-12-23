@@ -4,7 +4,7 @@
 
 🎓 4th year Data Science student at University of Waterloo  
 🔖 Worked as Quantitative Engineer, Data Scientist, Web Developer  
-🏆 Winner of a few Math Contests  
+🏆 Winner of multiple Math Contests  
 
 ### Languages I use
 
