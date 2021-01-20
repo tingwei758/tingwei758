@@ -6,7 +6,7 @@
 🔖 Worked as Data Scientist, Quantitative Engineer, Web Developer  
 🏆 Winner of multiple Math and Data Competitions  
 🍸 Amateur Bartender at party  
-🔭 Currently working on buiding a Stock Risk Visualization application  
+🔭 Currently working on developing a Stock Risk Visualization application  
 💬 Ask me about what is, not what ought to be...  
 
 ### Professional Interests
