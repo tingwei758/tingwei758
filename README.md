@@ -2,11 +2,13 @@
 
 ## Hey 👋, I'm Mike Zhang
 
-🎓 I am Data Science student at University of Waterloo  
-🔖 I have worked as Data Scientist, Quantitative Engineer, Web Developer  
-🏆 I have won a couple of Math and Data Competitions  
+🎓 Data Science student at University of Waterloo  
+🔖 Worked as Data Scientist, Quantitative Engineer, Web Developer  
+🏆 Winner of multiple Math and Data Competitions  
+🍸 Amateur Bartender at party  
 🔭 Currently working on buiding a Stock Risk Visualization application  
-🍸 I make cocktails at party  
+💬 Ask me about what is, not what ought to be...  
+
 
 ### Languages I use
 
