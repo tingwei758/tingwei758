@@ -9,6 +9,11 @@
 🔭 Currently working on buiding a Stock Risk Visualization application  
 💬 Ask me about what is, not what ought to be...  
 
+### Professional Interest
+Data Analytics, Machine Learning, NLP, Computer Science, Statistics, Mathematics
+
+### Personal Interest
+Mathematical Finance, Economics, Quantum Mechanics, Special Relativity, Human Evolution, Arts and Music (romantic era)
 
 ### Languages I use
 
