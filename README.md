@@ -9,10 +9,10 @@
 🔭 Currently working on buiding a Stock Risk Visualization application  
 💬 Ask me about what is, not what ought to be...  
 
-### Professional Interest
+### Professional Interests
 Data Analytics, Machine Learning, NLP, Computer Science, Statistics, Mathematics
 
-### Personal Interest
+### Personal Interests
 Mathematical Finance, Economics, Quantum Mechanics, Special Relativity, Human Evolution, Arts and Music (romantic era)
 
 ### Languages I use
@@ -25,7 +25,7 @@ Mathematical Finance, Economics, Quantum Mechanics, Special Relativity, Human Ev
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-### Reach me  
+### Reach me at  
 [![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)
 [![Mail](https://img.shields.io/badge/-tingwei758@hotmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:tingwei758@hotmail.com)
 
