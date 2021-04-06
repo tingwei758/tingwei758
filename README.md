@@ -5,7 +5,7 @@
 🎓 Data Science student at University of Waterloo  
 🔖 Worked as Data Scientist, Quantitative Engineer, Web Developer  
 🏆 Winner of multiple Math and Data Competitions  
-🍸 Amateur Bartender at party  
+🍸 Bartender at party  
 🔭 Currently working on developing a Stock Risk Visualization application  
 💬 Ask me about what is, not what ought to be...  
 
