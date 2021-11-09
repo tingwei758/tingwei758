@@ -3,7 +3,7 @@
 ## Hey 👋, I'm Mike Zhang
 
 🎓 Data Science student at University of Waterloo  
-🔖 Worked as Data Scientist, Quantitative Engineer, Software Developer  
+🔖 Worked as Software Developer, Data Scientist, Quantitative Engineer
 🏆 Winner of multiple Math and Data Competitions  
 🍸 Bartender at party  
 🔭 Currently working on developing a Stock Risk Visualization application  
