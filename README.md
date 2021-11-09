@@ -27,7 +27,7 @@ Mathematical Finance, Economics, Quantum Mechanics, Special Relativity, Human Ev
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ### Reach me at  
-[![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)
+[![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/tingwei758)
 [![Mail](https://img.shields.io/badge/-tingwei758@hotmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:tingwei758@hotmail.com)
 
 
