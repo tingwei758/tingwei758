@@ -21,10 +21,10 @@ AI, Philosophy, Mathematical Finance, Quantum Mechanics, Special Relativity, Art
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=2b76cc)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+<!--!![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)-->
+[ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 
 ### Reach me at  
 [![Linkedin](https://img.shields.io/badge/-Mike%20Zhang-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ting-wei-zhang-0979b4136/)](https://www.linkedin.com/in/tingwei758)
