@@ -2,8 +2,8 @@
 
 ## Hey 👋, I'm Mike Zhang
 💡 Lead Software Developer at DRW  
-🎓 MMA student at McGill  
-🎓 Data Science student at University of Waterloo  
+👨‍🎓 Master of Management in Analytics (MMA) student at McGill  
+🎓 Bachelor in Data Science at UWaterloo  
 🔖 Worked as Software Developer, Data Scientist, Quantitative Engineer
 🏆 Winner of multiple Math and Data Competitions  
 ☕ Barista during the day  
