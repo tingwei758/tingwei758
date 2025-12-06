@@ -6,7 +6,7 @@
 🎓 Data Science student at University of Waterloo  
 🔖 Worked as Software Developer, Data Scientist, Quantitative Engineer
 🏆 Winner of multiple Math and Data Competitions  
-☕ Barista during the day
+☕ Barista during the day  
 🍸 Bartender at night  
 
 ### Professional Interests
