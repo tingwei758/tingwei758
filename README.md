@@ -1,7 +1,7 @@
 ![mike_zhang.gif](https://github.com/tingwei758/tingwei758/raw/master/img/mike_zhang.gif)
 
 ## Hey 👋, I'm Mike Zhang
-💡 Lead Software Developer at DRW
+💡 Lead Software Developer at DRW  
 🎓 MMA student at McGill  
 🎓 Data Science student at University of Waterloo  
 🔖 Worked as Software Developer, Data Scientist, Quantitative Engineer
