@@ -4,7 +4,7 @@
 💡 Lead Software Developer at DRW  
 👨‍🎓 Master of Management in Analytics (MMA) student at McGill  
 🎓 Bachelor in Data Science at UWaterloo  
-🔖 Worked as Software Developer, Data Scientist, Quantitative Engineer
+🔖 Professional Experience in Data Analytics, Machine learning, Full-Stack Software Developement, Quantitative Analysis (Equity Investing)  
 🏆 Winner of multiple Math and Data Competitions  
 ☕ Barista during the day  
 🍸 Bartender at night  
