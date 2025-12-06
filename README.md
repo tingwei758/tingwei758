@@ -13,7 +13,7 @@
 Data Analytics, Machine Learning, Computer Science, Statistics, Mathematics
 
 ### Personal Interests
-AI, Philosophy, Mathematical Finance, Quantum Mechanics, Special Relativity, Human Evolution, Arts and Music (romantic era)
+AI, Philosophy, Mathematical Finance, Quantum Mechanics, Special Relativity, Arts and Music (romantic era mostly)
 
 ### Languages I use
 
