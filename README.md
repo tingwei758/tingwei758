@@ -1,16 +1,16 @@
 ![mike_zhang.gif](https://github.com/tingwei758/tingwei758/raw/master/img/mike_zhang.gif)
 
 ## Hey 👋, I'm Mike Zhang
-
+💡 Lead Software Developer at DRW
+🎓 MMA student at McGill  
 🎓 Data Science student at University of Waterloo  
 🔖 Worked as Software Developer, Data Scientist, Quantitative Engineer
 🏆 Winner of multiple Math and Data Competitions  
-🍸 Bartender at party  
-🔭 Currently working on developing a Stock Risk Visualization application  
-💬 Ask me about what is, not what ought to be...  
+☕ Barista during the day
+🍸 Bartender at night  
 
 ### Professional Interests
-Data Analytics, Machine Learning, NLP, Computer Science, Statistics, Mathematics
+Data Analytics, Machine Learning, Computer Science, Statistics, Mathematics
 
 ### Personal Interests
 Mathematical Finance, Economics, Quantum Mechanics, Special Relativity, Human Evolution, Arts and Music (romantic era)
