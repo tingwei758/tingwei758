@@ -1,9 +1,9 @@
 ![mike_zhang.gif](https://github.com/tingwei758/tingwei758/raw/master/img/mike_zhang.gif)
 
-## Hey 👋, I'm Mike Zhang
+## Hey 👋, I'm Mike
 
-**Software Developer & Data Analyst**  
-Lead Software Developer at DRW • MMA Student at McGill • Data Science BMath from UWaterloo  
+**Software Developer & Data Enthusiast**  
+Lead Software Developer at DRW • MMA Student at McGill • Bachelor in Data Science at UWaterloo  
 
 I build high-performance software and data-driven solutions. My professional experience spans **data analytics**, **machine learning**, **full-stack development**, and **quantitative analysis**.  
 I specialize in analyzing complex datasets to uncover **patterns, trends, and actionable insights**, and turning them into reliable, scalable systems.
